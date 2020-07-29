@@ -1,3 +1,3 @@
-## XSLT Magic
+## XSLT
 
 --
